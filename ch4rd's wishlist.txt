@@ -1,6 +1,11 @@
 title:ch4rd's wishlist
 description:preferred rolls
 
+// CALUS Mini-Tool - CALUS Mini-Tool (pve,controller)
+//notes: big pp hammer smg tags:pve,controller
+dimwishlist:item=2490988246&perks=839105230,679225683,402033656,2675184851
+
+
 // Staccato-46 - Staccato-46 (pve,controller)
 //notes: rolls for big pp hammer build. tags:pve,controller
 dimwishlist:item=4019668921&perks=839105230,106909392,3400784728,4293542123
