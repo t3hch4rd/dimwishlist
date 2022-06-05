@@ -1,0 +1,8 @@
+title:ch4rd's wishlist
+description:preferred rolls
+
+// Staccato-46 - Staccato-46 (pve,controller)
+//notes: rolls for big pp hammer build. tags:pve,controller
+dimwishlist:item=4019668921&perks=839105230,106909392,3400784728,4293542123
+
+
