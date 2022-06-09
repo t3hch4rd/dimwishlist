@@ -8,3 +8,7 @@ dimwishlist:item=2490988246&perks=839105230,679225683,1631667848,4293542123
 // Staccato-46 - Staccato-46 (pve,controller)
 //notes: rolls for big pp hammer build. tags:pve,controller
 dimwishlist:item=4019668921&perks=3661387068,106909392,3400784728,4293542123
+
+// Riptide - Riptide (pve,controller)
+//notes: good stasis fusion rifle
+dimwishlist:item=2715240478&perks=839105230,2969185026,3300816228,2978966579
