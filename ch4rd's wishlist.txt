@@ -18,5 +18,5 @@ dimwishlist:item=2715240478&perks=839105230,2969185026,3300816228,2978966579
 dimwishlist:item=1856262127&perks=3250034553,3230963543,3592538738,124408337
 
 // Stormchaser - Stormchaser (pve,controller)
-//notes: endgame build tags:pve,controller
+//notes: endgame build.
 dimwishlist:item=3652506829&perks=839105230,2680121939,247725512,4104185692
